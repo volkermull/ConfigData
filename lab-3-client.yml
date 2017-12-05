@@ -1,0 +1,9 @@
+spring:
+profiles: 1
+lucky-word: Irish
+spring:
+profiles: 1
+lucky-word: Rabbit's Foot
+spring:
+profiles: 1
+lucky-word: Serendipity
