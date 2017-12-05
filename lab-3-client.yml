@@ -1,9 +1,9 @@
 spring:
 profiles: 1
 lucky-word: Irish
-spring:
+
 profiles: 2
 lucky-word: Rabbit's Foot
-spring:
+
 profiles: 3
 lucky-word: Serendipity
